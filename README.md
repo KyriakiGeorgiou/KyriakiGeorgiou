@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KyriakiGeorgiou I have a bachelors degree in Computer Science and I'm working towards my master in AI
+- 👋 Hi, I’m @KyriakiGeorgiou I have a bachelor's degree in Computer Science and I'm working towards my master's in AI
 - 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning machine learning, representation learning and text mining
+- 🌱 I’m currently learning machine learning, representation learning, computer vision and text mining
 
 
 <!---
