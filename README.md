@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @KyriakiGeorgiou I have a bachelor's degree in Computer Science and I'm working towards my master's in AI
-- 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning machine learning, representation learning, computer vision and text mining
+### ✨ About Me
+
+- 👋 Hi, I’m Kyriaki Georgiou
+
+- 🎓 I hold a BSc in Computer Science and an MSc in Artificial Intelligence
+
+- 💼 I’m currently working as a Computer Vision & Machine Learning Engineer
+
+- 👀 My interests include Artificial Intelligence, Computer Vision, Machine Learning, and NLP
+
+- 🌱 I’m constantly learning about representation learning, deep learning, and text mining
+
+- 🚀 I enjoy working on real-world AI applications, especially in image analysis and defect detection
+
+- 🛠️ Skills / Tech Stack: Python, C++, PyTorch/TensorFlow, OpenCV, CUDA
+
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kyriaki-georgiou-cs) 
 
 
 <!---
