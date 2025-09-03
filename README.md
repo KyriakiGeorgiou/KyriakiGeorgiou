@@ -14,7 +14,8 @@
 
 - 🛠️ Skills / Tech Stack: Python, C++, PyTorch/TensorFlow, OpenCV, CUDA
 
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kyriaki-georgiou-cs) 
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyriaki-georgiou-cs)
+
 
 
 <!---
