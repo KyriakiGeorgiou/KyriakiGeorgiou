@@ -4,7 +4,7 @@
 
 - 🎓 I hold a BSc in Computer Science and an MSc in Artificial Intelligence
 
-- 💼 I’m currently working as a Computer Vision & Machine Learning Engineer
+- 💼 I’m currently working as a Computer Vision & Machine Learning Engineer in Manchester, UK
 
 - 👀 My interests include Artificial Intelligence, Computer Vision, Machine Learning, and NLP
 
